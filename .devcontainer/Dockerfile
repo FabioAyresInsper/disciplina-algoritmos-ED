@@ -7,8 +7,16 @@ RUN apt-get update && apt-get install -y \
     wget \
     graphviz \
     texlive-latex-recommended \
+    texlive-latex-extra \
     texlive-fonts-recommended \
-    texlive-science
+    texlive-science \
+    libnss3 \
+    libnspr4 \
+    libatk1.0-0t64 \
+    libatk-bridge2.0-0t64 \
+    libasound2t64 \
+    libxdamage1 \
+    libatspi2.0-0t64
 
 # Pandoc.
 RUN wget https://github.com/jgm/pandoc/releases/download/3.10/pandoc-3.10-1-amd64.deb \

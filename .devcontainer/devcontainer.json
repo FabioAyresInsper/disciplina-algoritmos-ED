@@ -5,6 +5,16 @@
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"build": {
 		"dockerfile": "Dockerfile"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"Anthropic.claude-code",
+				"DavidAnson.vscode-markdownlint",
+				"ms-python.python",
+				"charliermarsh.ruff"
+			]
+		}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.

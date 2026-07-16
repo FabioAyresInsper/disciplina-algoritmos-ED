@@ -2,6 +2,7 @@ import subprocess
 import pathlib
 import os.path as osp
 import functools
+import glob
 import sys
 
 DEBUG=True
@@ -11,7 +12,20 @@ DATE_CMD = 'date +\"%d/%m/%Y %H:%M\"'
 PANDOC_HANDOUT = 'pandoc -f markdown+pipe_tables+backtick_code_blocks+fenced_divs+raw_html --lua-filter=filters/message.lua --lua-filter=filters/spacer.lua --lua-filter=filters/graphviz.lua --lua-filter=filters/side-by-side.lua  -s --template templates/tufte-handout.tex '
 PANDOC_PAGE = 'pandoc -f markdown+pipe_tables+backtick_code_blocks+fenced_divs+raw_html --toc --toc-depth=1 -s --template templates/template-index.html '
 PANDOC_VARS = f'-V date="$({DATE_CMD})" -V versao="2025/02"'
-MARP_CMD = 'npx @marp-team/marp-cli --browser-path vivaldi  --theme templates/slides.css  --allow-local-files --html '
+
+
+def find_chrome():
+    """Locate the Chrome installed by the devcontainer's `@puppeteer/browsers`."""
+    candidates = sorted(glob.glob(osp.expanduser('~/chrome/*/chrome-linux64/chrome')))
+    if candidates:
+        return candidates[-1]
+    raise RuntimeError(
+        'No Chrome install found under ~/chrome. '
+        'Run: npx @puppeteer/browsers install chrome@stable'
+    )
+
+
+MARP_CMD = f'npx @marp-team/marp-cli --browser-path {find_chrome()}  --theme templates/slides.css  --allow-local-files --html '
 
 
 src = pathlib.Path('src')
