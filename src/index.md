@@ -1,12 +1,11 @@
-    ---
+---
 title: Algoritmos e Estruturas de dados
-subtitle: 2026.1
+subtitle: 2026.2
 ...
 
 # Avisos
 
 **09/02**: Nesta disciplina, é proibida a utilização de ferramentas e plugins de IA generativa (IAg) em todas as atividades, pois a avaliação dos objetivos de aprendizagem é baseada no raciocínio lógico do próprio aluno.
-
 
 **Links importantes**:
 
@@ -17,6 +16,7 @@ subtitle: 2026.1
 # Equipe
 
 ::: equipe :::
+
 - ![](css/igor.png) Igor Montagner
 - ![Ana](css/ana-helena.jpeg) Ana Helena Caiafa (2025)
 - ![](css/ian.jpeg) Ian Cordibello Desponds (2025/01)
@@ -24,41 +24,38 @@ subtitle: 2026.1
 - ![](css/vaz.jpg) Eduardo Vaz (2024/02)
 :::
 
-
 # Avaliações
 
 Teremos os seguinte itens de avaliação
 
 - $PL$ - média de todos os exercícios no PrairieLearn
-- $P1$ - prova de árvores 
+- $P1$ - prova de árvores
 - $P2$ - prova de grafos
 
-A nota final $NF$ é calculada da seguinte maneira. 
+A nota final $NF$ é calculada da seguinte maneira.
 
 $$
 NF = 0.25 \times PL + P1 \times 0.3 + P2 \times 0.45
 $$
 
-Com a condição de que $(P1 + 2 \times P2)/3 \geq 4.5$. 
-
+Com a condição de que $(P1 + 2 \times P2)/3 \geq 4.5$.
 
 # Como usar o material
 
 Nossas aulas estão divididas em 3 materiais principais:
 
-1. **slides** usados nas partes expositivas das aulas. 
+1. **slides** usados nas partes expositivas das aulas.
 2. **handouts** contendo atividades feitas em aula e explicações adicionais. Estão em formato PDF. É possível usar tanto impresso quanto anotando o PDF digitalmente.
 3. **exercícios conceituais** no PrairieLearn específicos para cada aula.
 
-Veja os vídeos abaixo para entender um pouco melhor a mudança para material impresso e também algumas dicas de como aproveitar melhor esse tipo de material. Temos tanto para uso em papel como digital via anotações no PDF. 
+Veja os vídeos abaixo para entender um pouco melhor a mudança para material impresso e também algumas dicas de como aproveitar melhor esse tipo de material. Temos tanto para uso em papel como digital via anotações no PDF.
 
 <a class="button" href="https://youtu.be/8eoDvbbxYhE">Uso do material em Papel</a> <!-- <a class="button" href="#">Uso do material em PDF</a> -->
 
 Além disso, também teremos exercícios de implementação gerais de cada assunto. Eles são listados no início de cada assunto.
 
 1. **implementação** dos algoritmos no PrairieLearn. Objetivo é traduzir os algoritmos vistos em sala para *C*.
-2. **exercícios extras** em sites como LeetCode, hackerrank e etc. Úteis para praticar para prova e ter mais exemplos dos algoritmos e estruturas de dados sendo usados. 
-
+2. **exercícios extras** em sites como LeetCode, hackerrank e etc. Úteis para praticar para prova e ter mais exemplos dos algoritmos e estruturas de dados sendo usados.
 
 # Aulas
 
@@ -68,13 +65,11 @@ Atividades de aula estão organizadas em grandes tópicos que serão abordados e
 
 ## Introdução a Programação em C
 
-Os materiais iniciais estão no site dos [Labs de C](https://insper.github.io/Labs-de-C). 
+Os materiais iniciais estão no site dos [Labs de C](https://insper.github.io/Labs-de-C).
 
 **Alocação de memória**: [handout](01-c/handout.pdf) / [slides](01-c/slides.pdf) / [PrairieLearn][pl-malloc]
 
 [pl-malloc]: https://us.prairielearn.com/pl/course_instance/211219/assessment/2651609
-
-
 
 ## Árvores Binárias de Busca
 
@@ -91,7 +86,6 @@ Os materiais iniciais estão no site dos [Labs de C](https://insper.github.io/La
 [exercicios-balanceia-abb]: https://us.prairielearn.com/pl/course_instance/211219/assessment/2651600
 [exercicios-remove-abb]: https://us.prairielearn.com/pl/course_instance/211219/assessment/2651603
 
-
 ### Exercícios extras
 
 Os seguintes exercícios do leetcode são interessantes e relacionados ao assunto atual.
@@ -99,15 +93,13 @@ Os seguintes exercícios do leetcode são interessantes e relacionados ao assunt
 1. (**BÁSICO**)[Soma de caminho até folha](https://leetcode.com/problems/path-sum/)
 2. (**BÁSICO**)[Soma K](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 3. (**BÁSICO**)[Altura mínima](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
-5. (**MÉDIO**)[Convertendo array ordenado em árvore](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-6. Leetcode 101.  Symmetric Tree
-7. Leetcode 129. Sum Root to Leaf numbers
-8. Leetcode 199. Right view of tree
-9. Leetcode 257. Binary tree paths (fazer em Python)
-
+4. (**MÉDIO**)[Convertendo array ordenado em árvore](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+5. Leetcode 101.  Symmetric Tree
+6. Leetcode 129. Sum Root to Leaf numbers
+7. Leetcode 199. Right view of tree
+8. Leetcode 257. Binary tree paths (fazer em Python)
 
 ## Grafos
-
 
 | Aula                                | Materiais                                                                         | Exercícios                                             |
 | --                                  | ---                                                                               | ---                                                    |
