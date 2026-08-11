@@ -5,15 +5,15 @@ subtitle: 2026.2
 
 # Avisos
 
-**09/02**: Nesta disciplina, é proibida a utilização de ferramentas e plugins de IA generativa (IAg) em todas as atividades, pois a avaliação dos objetivos de aprendizagem é baseada no raciocínio lógico do próprio aluno.
+Nesta disciplina, é proibida a utilização de ferramentas e plugins de IA generativa (IAg) em todas as atividades, pois a avaliação dos objetivos de aprendizagem é baseada no raciocínio lógico do próprio aluno.
 
 **Links importantes**:
 
 - [Avisos (blackboard)](https://insper.blackboard.com/ultra/courses/_52846_1/announcements)
 - [Exercícios (prairie learn)](https://us.prairielearn.com/pl/course_instance/211219)
-- [Plano de aulas](./plano-de-aulas.xlsx)
+- [Plano de aulas](./plano_de_aulas.pdf)
 
-# Equipe
+<!--- # Equipe
 
 ::: equipe :::
 
@@ -22,7 +22,7 @@ subtitle: 2026.2
 - ![](css/ian.jpeg) Ian Cordibello Desponds (2025/01)
 - ![](css/livia.jpg) Lívia Tanaka (2024/02)
 - ![](css/vaz.jpg) Eduardo Vaz (2024/02)
-:::
+::: --->
 
 # Avaliações
 
@@ -140,9 +140,3 @@ Os seguintes exercícios do leetcode são interessantes e relacionados ao assunt
 
 - [findTheCity](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)
 - [Network Delay](https://leetcode.com/problems/network-delay-time/description/)
-
-# Materiais antigos
-
-Aqui está o material completo usado em cada ano nesta disciplina.
-
-- [2025/01](old/2025-1.zip)

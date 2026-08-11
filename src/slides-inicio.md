@@ -1,9 +1,8 @@
 ---
-footer: 'Igor Montagner (igorsm1@insper.edu.br)'
+footer: 'Fábio José Ayres (fabioja@insper.edu.br)'
 ---
 
 <!-- _class: front -->
-
 
 # Apresentação da Disciplina
 
@@ -20,7 +19,9 @@ Todas informações estão no site
 - plano de aulas
 - todos materiais
 
-----------------
+--------
+
+<!-- ----------------
 
 # Presença e atividades em sala
 
@@ -33,7 +34,7 @@ Todas informações estão no site
 
 ## Na sala, só quem está estudando a matéria
 
--------------------
+------------------- -->
 
 # IA
 
@@ -42,7 +43,6 @@ Nosso objetivo aqui é **aprender**. *genAI* não ajuda (necessariamente) a apre
 - mas pode ajudar a terminar mais rápido
 - ou com menos esforço
 - ou até a não fazer algumas tarefas
-
 
 ----------------------
 
@@ -69,4 +69,3 @@ Dois quizzes em duplas, um para cada assunto.
 Material compartilhado com a EngComp. Link na página da disciplina com todos os detalhes por lá.
 
 ## Material é autoguiado. Temos quizzes (bem) simples para ajudar a praticar leitura e simulação de código *C*.
-
