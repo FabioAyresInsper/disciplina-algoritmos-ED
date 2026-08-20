@@ -10,7 +10,7 @@ Nesta disciplina, é proibida a utilização de ferramentas e plugins de IA gene
 **Links importantes**:
 
 - [Avisos (blackboard)](https://insper.blackboard.com/ultra/courses/_52846_1/announcements)
-- [Exercícios (prairie learn)](https://us.prairielearn.com/pl/course_instance/223330)
+- [Exercícios (prairie learn)](https://us.prairielearn.com/pl/course_instance/223330/join/P5KBVSNCKM)
 - [Plano de aulas](./plano_de_aulas.pdf)
 
 <!--- # Equipe
