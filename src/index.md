@@ -69,7 +69,7 @@ Os materiais iniciais estão no site dos [Labs de C](https://insper.github.io/La
 
 **Alocação de memória**: [handout](01-c/handout.pdf) / [slides](01-c/slides.pdf) / [PrairieLearn][pl-malloc]
 
-[pl-malloc]: https://us.prairielearn.com/pl/course_instance/211219/assessment/2651609
+[pl-malloc]: https://us.prairielearn.com/pl/course_instance/223330/assessment/2710953
 
 ## Árvores Binárias de Busca
 
