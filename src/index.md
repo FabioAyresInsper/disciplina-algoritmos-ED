@@ -81,7 +81,7 @@ Os materiais iniciais estão no site dos [Labs de C](https://insper.github.io/La
 | Remoção       | [Video Rotação](https://youtu.be/YzSuUj54Mo0) | [Handout](05-abb-remove/handout.pdf)     | [Acessar][exercicios-remove-abb]    |
 |               |                                               |                                          |                                     |
 
-[exercicios-intro-abb]: https://us.prairielearn.com/pl/course_instance/211219/assessment/2651602
+[exercicios-intro-abb]: https://us.prairielearn.com/pl/course_instance/223330/assessment/2710936
 [exercicios-insere-abb]: https://us.prairielearn.com/pl/course_instance/211219/assessment/2651601
 [exercicios-balanceia-abb]: https://us.prairielearn.com/pl/course_instance/211219/assessment/2651600
 [exercicios-remove-abb]: https://us.prairielearn.com/pl/course_instance/211219/assessment/2651603
@@ -94,7 +94,7 @@ Os seguintes exercícios do leetcode são interessantes e relacionados ao assunt
 2. (**BÁSICO**)[Soma K](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 3. (**BÁSICO**)[Altura mínima](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 4. (**MÉDIO**)[Convertendo array ordenado em árvore](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-5. Leetcode 101.  Symmetric Tree
+5. Leetcode 101. Symmetric Tree
 6. Leetcode 129. Sum Root to Leaf numbers
 7. Leetcode 199. Right view of tree
 8. Leetcode 257. Binary tree paths (fazer em Python)
