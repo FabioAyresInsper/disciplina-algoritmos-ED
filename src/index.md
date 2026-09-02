@@ -83,8 +83,8 @@ Os materiais iniciais estão no site dos [Labs de C](https://insper.github.io/La
 
 [exercicios-intro-abb]: https://us.prairielearn.com/pl/course_instance/223330/assessment/2710936
 [exercicios-insere-abb]: https://us.prairielearn.com/pl/course_instance/223330/assessment/2710935
-[exercicios-balanceia-abb]: https://us.prairielearn.com/pl/course_instance/211219/assessment/2651600
-[exercicios-remove-abb]: https://us.prairielearn.com/pl/course_instance/211219/assessment/2651603
+[exercicios-balanceia-abb]: https://us.prairielearn.com/pl/course_instance/223330/assessment/2710934
+[exercicios-remove-abb]: https://us.prairielearn.com/pl/course_instance/223330/assessment/2710937
 
 ### Exercícios extras
 
