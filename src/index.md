@@ -109,11 +109,11 @@ Os seguintes exercícios do leetcode são interessantes e relacionados ao assunt
 | Caminhos mínimos                    | [Slides](08-bfs/slides.pdf) / [Handout](08-bfs/handout.pdf)                       |[Acessar][exercicios-grafos-bfs]                        |
 | Caminhos mínimos com pesos          | [Slides](09-dijkstra/slides.pdf) / [Handout](09-dijkstra/handout.pdf)             |[Acessar][exercicios-grafos-dijkstra]                   |
 
-[exercicios-grafos-basicos]: https://us.prairielearn.com/pl/course_instance/211219/assessment/2651605
-[exercicios-grafos-repr]: https://us.prairielearn.com/pl/course_instance/211219/assessment/2651604
-[exercicios-grafos-dfs]: https://us.prairielearn.com/pl/course_instance/211219/assessment/2651607
-[exercicios-grafos-bfs]: https://us.prairielearn.com/pl/course_instance/211219/assessment/2651606
-[exercicios-grafos-dijkstra]: https://us.prairielearn.com/pl/course_instance/211219/assessment/2651608
+[exercicios-grafos-basicos]: https://us.prairielearn.com/pl/course_instance/223330/assessment/2710939
+[exercicios-grafos-repr]: https://us.prairielearn.com/pl/course_instance/223330/assessment/2710938
+[exercicios-grafos-dfs]: https://us.prairielearn.com/pl/course_instance/223330/assessment/2710941
+[exercicios-grafos-bfs]: https://us.prairielearn.com/pl/course_instance/223330/assessment/2710940
+[exercicios-grafos-dijkstra]: https://us.prairielearn.com/pl/course_instance/223330/assessment/2710942
 
 ### Exercícios extras
 
